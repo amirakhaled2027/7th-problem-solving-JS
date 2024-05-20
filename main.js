@@ -16,4 +16,4 @@ function countLetters(str) {
     }
     return letters;
 }
-console.log(countLetters('ffffeerttttooo'));
+console.log(countLetters('Indivisibilities'));
